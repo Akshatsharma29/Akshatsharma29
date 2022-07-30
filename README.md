@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align = "right" alt = "Coding" width = "400" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z64nxbsnk9zrtbpxbl4kj5v4t3cp9y6r2h27ya25&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatsharma29&label=Profile%20views&color=0e75b6&style=flat" alt="akshatsharma29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akshatsharma5" target="blank"><img src="https://img.shields.io/twitter/follow/akshatsharma5?logo=twitter&style=for-the-badge" alt="akshatsharma5" /></a> </p>
