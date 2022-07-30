@@ -4,7 +4,7 @@
 
 <img align = "right" alt = "Coding" width = "400" src = "https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatsharma29&label=Profile%20views&color=0e75b6&style=flat" alt="akshatsharma29" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/akshatsharma5" target="blank"><img src="https://img.shields.io/twitter/follow/akshatsharma5?logo=twitter&style=for-the-badge" alt="akshatsharma5" /></a> </p>
 
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatsharma29&show_icons=true&locale=en" alt="akshatsharma29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsharma29&" alt="akshatsharma29" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatsharma29&label=Profile%20views&color=0e75b6&style=flat" alt="akshatsharma29" /> </p>
